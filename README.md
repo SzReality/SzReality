@@ -1,4 +1,4 @@
 Yo, I`m SzReality
 
-- Learining Lua
+- Learning Lua
 - Can sleep with your eyes closed.
